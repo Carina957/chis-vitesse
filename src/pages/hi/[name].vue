@@ -43,5 +43,7 @@ watchEffect(() => {
         {{ t('button.back') }}
       </button>
     </div>
+
+    <TheCounter :initial="20" />
   </div>
 </template>
