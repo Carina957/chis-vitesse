@@ -4,6 +4,6 @@
     "@unocss"
   ],
   "rules": {
-    "no-console": "off"
+    "no-console": "warn"
   }
 }
